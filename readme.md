@@ -20,6 +20,18 @@ GovChain is a decentralized financial infrastructure designed to modernize the s
 | **Vendor** (Third Party) | Goods/services provider. | Passive destination address for SP2D-LS transfers. Must register KYC/Tax profiles in the Registry Contract. |
 | **Auditor / Public** | Supreme Audit Agency (BPK) or citizens. | Read-only access to query contract status and aggregate Event Logs to monitor budget absorption rates. |
 
+### Bureaucracy and Public Finance Terms (EN)
+- **APBN / APBD:** The main state or regional "wallet" - the annual plan of revenues and spending.
+- **DIPA (Budget Implementation List):** An official spending ceiling for an agency, similar to a credit limit for the year.
+- **Satker (Work Unit):** A specific unit under a ministry or regional office that executes projects.
+- **KPA (Budget User Authority):** The head of the Satker and the ultimate party accountable for the unit's spending.
+- **PPK (Commitment Maker Official):** The official who prepares and signs contracts with vendors.
+- **KPPN (Treasury Service Office):** The state's main cashier that holds the vault key and releases funds.
+- **SPM (Payment Order Letter):** A payment request submitted by the Satker to the KPPN.
+- **SP2D (Fund Disbursement Order):** The final approval from KPPN that triggers the transfer.
+- **LS Mechanism (Direct):** State funds are paid directly to the vendor's account.
+- **UP Mechanism (Operational Cash):** Petty cash entrusted to the unit treasurer for daily operations.
+
 ### Business Flow Diagram
 ![Business flow](assets/business_flow.png)
 
