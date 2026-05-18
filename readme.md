@@ -33,3 +33,6 @@ GovChain is a decentralized financial infrastructure designed to modernize the s
 * **Temporary Storage:** Ephemeral data (e.g., failed SPM drafts). Permanently purged when TTL reaches 0.
 * **Persistent Storage:** Long-term critical data (e.g., vendor registries, historical DIPA). Archived if TTL expires and restorable via `RestoreFootprintOp`.
 * **Instance Storage:** Bound to the contract's lifecycle. Used for global variables like KPA admin addresses and tax rate thresholds.
+
+### Testnet Smart Contract ID
+CA5QOH5356CFJU372VJJJ3KQW2X6HZJVNDKEUGCUDVXFTTCAIJW2TC6J
